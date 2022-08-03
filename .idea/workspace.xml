@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084b0151-345d-48a0-a689-5d1d5862c1a6" name="Changes" comment="Oprava .gitignors">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ifloop/Support.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifloop/Support.java" afterDir="false" />
-    </list>
+    <list default="true" id="084b0151-345d-48a0-a689-5d1d5862c1a6" name="Changes" comment="Oprava .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659559641517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Oprava .gitignore">
+      <created>1659559942941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659559942941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="první commit" />
     <MESSAGE value="Oprava .gitignors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oprava .gitignors" />
+    <MESSAGE value="Oprava .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oprava .gitignore" />
   </component>
 </project>
