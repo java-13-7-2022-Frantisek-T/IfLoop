@@ -12,7 +12,7 @@ public class Support {
 
     public static int INVALID_INPUT = -1;
 
-    /**
+    /*
      * Read one integer. If given input cannot be converted to integer,
      * prints error and return -1;
      * @return Integer read or -1 if invalid input entered

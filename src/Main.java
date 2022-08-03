@@ -125,7 +125,6 @@ public class Main {
     //endregion
 
 
-
     //region Podmínky
 
     /**
