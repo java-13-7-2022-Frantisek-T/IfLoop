@@ -26,7 +26,6 @@ public class Support {
             }
         return result;
     }
-
 }
 
 
